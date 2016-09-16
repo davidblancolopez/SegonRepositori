@@ -16,7 +16,7 @@ public class SegonRepositori {
      */
     public static void main(String[] args) {
         System.out.println("Hola soy Albert!!");
-        System.out.println("Soy Eric");
+        System.out.println("Hola soy Eric");
     }
     
 }
