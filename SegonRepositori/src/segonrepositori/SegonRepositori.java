@@ -15,10 +15,9 @@ public class SegonRepositori {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola soy Albert!!");
-        System.out.println("Hola soy Eric");
-        System.out.println("lalala");
-        System.out.println("Probando como colaborador Eric");
+
+        System.out.println("Modificacion Albert");
+        System.out.println("lo borro todo");
 
     }
     
