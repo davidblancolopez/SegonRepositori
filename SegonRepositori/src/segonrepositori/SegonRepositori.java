@@ -18,6 +18,8 @@ public class SegonRepositori {
         System.out.println("Hola soy Albert!!");
         System.out.println("Hola soy Eric");
         System.out.println("lalala");
+        System.out.println("Probando como colaborador Eric");
+
     }
     
 }
